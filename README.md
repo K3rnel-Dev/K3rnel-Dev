@@ -27,7 +27,7 @@ He had recently studied cyber security from time to time. I am currently expandi
   </thead>
   <tbody>
     <tr>
-      <td><a href="#"><b>None</b></a></td>
+      <td><a href="#"><b>PassXStrike</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/K3rnel-dev/PassXstrike?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/K3rnel-dev/PassXstrike?style=flat-square&labelColor=343b41"></td>
       <td>✅</td>
@@ -35,6 +35,6 @@ He had recently studied cyber security from time to time. I am currently expandi
   </tbody>
 </table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-dev&langs_count=8&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-Dev&langs_count=8&theme=react)
 
 </div>
