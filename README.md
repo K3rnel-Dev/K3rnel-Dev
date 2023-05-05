@@ -35,6 +35,6 @@ He had recently studied cyber security from time to time. I am currently expandi
   </tbody>
 </table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&langs_count=8&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-dev&langs_count=8&theme=react)
 
 </div>
