@@ -1,7 +1,7 @@
 <!-- ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=About%20me&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62) -->
 
 <div align="center">
-<img src="https://github.com/K3rnel-dev/K3rnel-dev/blob/main/header-image.png" alt="">
+<img src="https://github.com/K3rnel-Dev/K3rnel-Dev/blob/main/head-image.png" alt="">
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Software+development;Cyber+Security;Frontend+development;Python development" alt="">
 <hr>
