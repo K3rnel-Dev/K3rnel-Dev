@@ -6,7 +6,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Software+development;Cyber+Security;Frontend+development;Python development" alt="">
 <hr>
 <h1>About me</h1>
+
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=K3rnel-dev)
+
 </div>
 
 **Hello!** I'm a junior developer,pentester from Russia.
