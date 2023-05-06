@@ -11,7 +11,7 @@
 
 </div>
 
-**Hello! I'm a junior developer,pentester from Russia.
+**I'm a junior developer,pentester, from Russia.
 He had recently studied cyber security from time to time. I am currently expanding my skills and developing websites, server software. One of the main distinctive skills is the conduct of pentest and the identification and elimination of vulnerabilities.**
 
 *   ✉️  You can contact me at: 
