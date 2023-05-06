@@ -37,6 +37,11 @@ He had recently studied cyber security from time to time. I am currently expandi
                                                                                                                                
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-Dev&langs_count=8&theme=react)
 
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=K3rnel-dev&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+                                                                                                                               
 <table>
   <tr>
     <td>
