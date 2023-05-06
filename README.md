@@ -44,7 +44,7 @@ He had recently studied cyber security from time to time. I am currently expandi
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=K3rnel-dev&theme=dark&background=000000" alt="Developer Stats"/>
     </td>
     <td>
-      <img height="195px" align="right" alt="Used Lanugages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=K3rnel-Dev&layout=compact&theme=vision-friendly-dark" />
+      <img height="150px" weight="150px" align="right" alt="Used Lanugages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=K3rnel-Dev&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
