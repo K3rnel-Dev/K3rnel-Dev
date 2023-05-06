@@ -35,7 +35,20 @@ He had recently studied cyber security from time to time. I am currently expandi
   </tbody>
 </table>
 
+                                                                                                                               
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-Dev&langs_count=8&theme=react)  -->
-<img height="195px" align="right" alt="Used Lanugagers" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=K3rnel-Dev&layout=compact&theme=vision-friendly-dark" />
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats"/>
+    </td>
+    <td>
+      <img height="195px" align="right" alt="Used Lanugages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=K3rnel-Dev&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=K3rnel-dev)
 
 </div>
