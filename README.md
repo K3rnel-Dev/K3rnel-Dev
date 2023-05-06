@@ -36,7 +36,7 @@ He had recently studied cyber security from time to time. I am currently expandi
 </table>
 
                                                                                                                                
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-Dev&langs_count=8&theme=react)  -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-Dev&langs_count=8&theme=react)
 
 <table>
   <tr>
@@ -44,11 +44,11 @@ He had recently studied cyber security from time to time. I am currently expandi
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=K3rnel-dev&theme=dark&background=000000" alt="Developer Stats"/>
     </td>
     <td>
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+
     </td>
   </tr>
 </table>
-
+![Statics Badge](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=K3rnel-dev)
 
 </div>
