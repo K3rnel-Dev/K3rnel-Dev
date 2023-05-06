@@ -15,13 +15,11 @@
 He had recently studied cyber security from time to time. I am currently expanding my skills and developing websites, server software. One of the main distinctive skills is the conduct of pentest and the identification and elimination of vulnerabilities.
 
 ---
-
+### I LEARNED THIS LANGUAGES: 
 <div>
- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="git" alt="git" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="html5" alt="html5" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="css" alt="css" width="80" height="80"/>
-
 </div>
 
 <div align="center">
