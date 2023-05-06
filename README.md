@@ -14,6 +14,13 @@
 **Hello!** I'm a junior developer,pentester from Russia.
 He had recently studied cyber security from time to time. I am currently expanding my skills and developing websites, server software. One of the main distinctive skills is the conduct of pentest and the identification and elimination of vulnerabilities.
 
+### Write in languages like: 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+</p>
+                   
 <br>
 
 <div align="center">
@@ -57,8 +64,7 @@ He had recently studied cyber security from time to time. I am currently expandi
   </tr>
 </table>
                                                                                                                                                 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=K3rnel-dev)
-           
+
                                                                                                                                                 
                                                                                                                                                
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3rnel-dev&theme=2077)
