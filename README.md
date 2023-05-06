@@ -44,11 +44,10 @@ He had recently studied cyber security from time to time. I am currently expandi
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=K3rnel-dev&theme=dark&background=000000" alt="Developer Stats"/>
     </td>
     <td>
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3rnel-dev&theme=2077)
     </td>
   </tr>
 </table>
-                                                                                                                                                
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K3rnel-dev&theme=2077)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=K3rnel-dev)
 
 </div>
