@@ -18,10 +18,9 @@ He had recently studied cyber security from time to time. I am currently expandi
 
 <div>
  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="css" alt="css" width="40" height="40"/>
-nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="git" alt="git" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="html5" alt="html5" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="css" alt="css" width="80" height="80"/>
 
 </div>
 
