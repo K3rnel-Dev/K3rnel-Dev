@@ -14,6 +14,8 @@
 **Hello!** I'm a junior developer,pentester from Russia.
 He had recently studied cyber security from time to time. I am currently expanding my skills and developing websites, server software. One of the main distinctive skills is the conduct of pentest and the identification and elimination of vulnerabilities.
 
+---
+
 ### Write in languages like: 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
