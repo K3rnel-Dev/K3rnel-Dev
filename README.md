@@ -46,7 +46,7 @@ He had recently studied cyber security from time to time. I am currently expandi
     <tr>
       <td><a href="https://github.com/K3rnel-Dev/PassXstrike"><b>PassXStrike</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/K3rnel-dev/PassXstrike?style=flat-square&labelColor=343b41"></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/K3rnel-dev/PassXstrike?style=flat-square&labelColor=343b41"></t
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/K3rnel-dev/PassXstrike?style=flat-square&labelColor=343b41"></td>
       <td>✅</td>
     </tr>
   </tbody>
@@ -56,7 +56,7 @@ He had recently studied cyber security from time to time. I am currently expandi
     <tr>
       <td><a href="https://github.com/K3rnel-Dev/PassXstrike"><b>PassXStrike</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/K3rnel-dev/MbbAttack?style=flat-square&labelColor=343b41"></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/K3rnel-dev/MbbAttack?style=flat-square&labelColor=343b41"></t
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/K3rnel-dev/MbbAttack?style=flat-square&labelColor=343b41"></td>
       <td>✅</td>
     </tr>
   </tbody>
