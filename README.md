@@ -31,7 +31,7 @@ He had recently studied cyber security from time to time. I am currently expandi
 ---
 
 <div align="center">
-<img alt="Stars" src="https://img.shields.io/github/stars/K3rnel-dev?label=Stars>
+<img alt="" src="https://img.shields.io/github/stars/K3rnel-dev?label=Stars>
 <img alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=K3rnel-dev">
 <table>
   <thead align="center">
