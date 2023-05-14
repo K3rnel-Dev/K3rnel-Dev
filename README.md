@@ -42,6 +42,16 @@ He had recently studied cyber security from time to time. I am currently expandi
       <td><b>👨‍💻 Is open</b></td>
     </tr>
   </thead>
+
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/K3rnel-Dev/AirPwn"><b>AirPwn</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/K3rnel-dev/AirPwn?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/K3rnel-dev/AirPwn?style=flat-square&labelColor=343b41"></td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+
   <tbody>
     <tr>
       <td><a href="https://github.com/K3rnel-Dev/PassXstrike"><b>PassXStrike</b></a></td>
