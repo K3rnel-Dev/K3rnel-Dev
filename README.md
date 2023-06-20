@@ -15,7 +15,7 @@
 He had recently studied cyber security from time to time. I am currently expanding my skills and developing websites, server software. One of the main distinctive skills is the conduct of pentest and the identification and elimination of vulnerabilities.**
 
 *   ✉️  You can contact me at: 
-[![Telegram Badge](https://img.shields.io/badge/-K3rnelDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/K3RNEL1337) 
+<!-- [![Telegram Badge](https://img.shields.io/badge/-K3rnelDev-blue?style=flat&logo=Telegram&logoColor=white)](#sorryACCOUNTSNOTCREATED)  -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:notcreated@sssss.xyz) -->
 
 ---
@@ -63,9 +63,9 @@ He had recently studied cyber security from time to time. I am currently expandi
 
   <tbody>
     <tr>
-      <td><a href="https://github.com/K3rnel-Dev/PassXstrike"><b>PassXStrike</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/K3rnel-dev/PassXstrike?style=flat-square&labelColor=343b41"></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/K3rnel-dev/PassXstrike?style=flat-square&labelColor=343b41"></td>
+      <td><a href="https://github.com/K3rnel-Dev/WiFiStealer"><b>WiFiStealer</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/K3rnel-dev/WiFiStealer?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/K3rnel-dev/WiFiStealer?style=flat-square&labelColor=343b41"></td>
       <td>✅</td>
     </tr>
   </tbody>
