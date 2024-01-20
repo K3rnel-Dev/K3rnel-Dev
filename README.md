@@ -29,8 +29,7 @@
     <img alt="Acunetix" src="https://img.shields.io/badge/CobaltStrike-blue?style=flat-square?style=flat-square"/>
     <img alt="test" src="https://img.shields.io/badge/Havoc-black?style=flat-square?style=flat-square"/>
     <img alt="test" src="https://img.shields.io/badge/BruteRatel-red?style=flat-square?style=flat-square"/>
-    <img alt="test" src="https://img.shields.io/badge/sqlmap-black?style=flat-square?style=flat-square"/>
-    <img alt="test" src="https://img.shields.io/badge/BruteRatel-red?style=flat-square?style=flat-square"/>
+    <img alt="test" src="https://img.shields.io/badge/sqlmap-yellow?style=flat-square?style=flat-square"/>
 </p>
 
 ---
