@@ -1,0 +1,69 @@
+<div align="center">
+    <img src="https://github.com/K3rnel-Dev/K3rnel-Dev/blob/main/banner.jpg" alt=""><br><br>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=K3rnel+Dev;+Cyber+Security;Pentesting;Web-Development😉">
+    <hr>
+    <h1>About me</h1>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=K3rnel-dev" alt="Visitor Badge">
+</div>
+
+**I am studying Malware-Analytics, Security-Researching.**
+
+---
+### USING LANGUAGES: 
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="80" height="80"/>
+</div>
+
+---
+#### Cybersecurity-related materials that I know:
+<p>
+    <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ghidra-FF4500?style=flat-square" alt="Ghidra" />
+    <img src="https://img.shields.io/badge/Nuclei-B0C4DE?style=flat-square" alt="Nuclei" />
+    <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF7F50?style=flat-square" alt="Burp Suite" />
+    <img alt="Zap" src="https://img.shields.io/badge/-Zap-078F5F.svg?logo=zap&logoColor=white"/>
+    <img alt="Acunetix" src="https://img.shields.io/badge/-Acunetix-0074C7.svg?style=flat-square&logo=acunetix&logoColor=white"/>
+    <img alt="Acunetix" src="https://img.shields.io/badge/CobaltStrike-blue?style=flat-square?style=flat-square"/>
+    <img alt="Acunetix" src="https://img.shields.io/badge/Havoc-Black?style=flat-square?style=flat-square"/>
+</p>
+
+---
+
+<div align="center">
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td><b>📘 Project</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/K3rnel-Dev/KatanaFramework" style="text-decoration: none; color: aqua;"><b>KATANA-FRAMEWORK</b></a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/K3rnel-Dev/LOCAL-ATTACK" style="text-decoration: none; color: aqua;"><b>LCA(LOCAL-ATTACK)</b></a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/K3rnel-Dev/ThompsonAI/" style="text-decoration: none; color: aqua;"><b>ThompsonAI</b></a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/K3rnel-Dev/TelegramStealer/" style="text-decoration: none; color: aqua;"><b>TelegramStealer</b></a></td>
+            </tr>
+        </tbody>
+    </table>
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-Dev&langs_count=8&theme=react)
+
+
+</div>
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=K3rnel-Dev&theme=dracula)](https://github.com/K3rnel-Dev/)
+
+
+</div>
