@@ -17,7 +17,7 @@
 </div>
 
 ---
-#### Cybersecurity-related materials that I know:
+#### Cybersecurity Main tools i using for pentesting:
 <p>
     <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ghidra-FF4500?style=flat-square" alt="Ghidra" />
@@ -27,7 +27,10 @@
     <img alt="Zap" src="https://img.shields.io/badge/-Zap-078F5F.svg?logo=zap&logoColor=white"/>
     <img alt="Acunetix" src="https://img.shields.io/badge/-Acunetix-0074C7.svg?style=flat-square&logo=acunetix&logoColor=white"/>
     <img alt="Acunetix" src="https://img.shields.io/badge/CobaltStrike-blue?style=flat-square?style=flat-square"/>
-    <img alt="Acunetix" src="https://img.shields.io/badge/Havoc-Black?style=flat-square?style=flat-square"/>
+    <img alt="test" src="https://img.shields.io/badge/Havoc-black?style=flat-square?style=flat-square"/>
+    <img alt="test" src="https://img.shields.io/badge/BruteRatel-red?style=flat-square?style=flat-square"/>
+    <img alt="test" src="https://img.shields.io/badge/sqlmap-black?style=flat-square?style=flat-square"/>
+    <img alt="test" src="https://img.shields.io/badge/BruteRatel-red?style=flat-square?style=flat-square"/>
 </p>
 
 ---
