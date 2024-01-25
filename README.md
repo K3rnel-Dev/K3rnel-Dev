@@ -34,34 +34,6 @@
 
 ---
 
-<div align="center">
-    <table>
-        <thead align="center">
-            <tr border: none;>
-                <td><b>📘 Project</b></td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><a href="https://github.com/K3rnel-Dev/KatanaFramework" style="text-decoration: none; color: aqua;"><b>KATANA-FRAMEWORK</b></a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/K3rnel-Dev/LOCAL-ATTACK" style="text-decoration: none; color: aqua;"><b>LCA(LOCAL-ATTACK)</b></a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/K3rnel-Dev/ThompsonAI/" style="text-decoration: none; color: aqua;"><b>ThompsonAI</b></a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/K3rnel-Dev/TelegramStealer/" style="text-decoration: none; color: aqua;"><b>TelegramStealer</b></a></td>
-            </tr>
-        </tbody>
-    </table>
-    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K3rnel-Dev&langs_count=8&theme=react)
-
-
-</div>
-
 
 
 
