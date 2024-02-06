@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="test.gif" alt="K3rnel" width="250px"><br><br>
+    <img src="test.gif" alt="K3rnel"><br><br>
     <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=K3rnel+Dev;+Cyber+Security;Pentesting;Web-Development😉">
     <hr>
     <h1>About me</h1>
