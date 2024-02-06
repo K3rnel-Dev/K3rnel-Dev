@@ -8,6 +8,8 @@
 
 **I am studying Malware-Analytics, Security-Researching.**
 
+
+
 ---
 ### USING LANGUAGES: 
 <div>
@@ -41,3 +43,10 @@
 
 
 </div>
+
+## ⚠️ Disclaimer
+```
+All applications that I publish here (my own) are used solely for familiarization with these programs.
+Do not use them to harm. I am not responsible for the use of my developments in anyone else’s projects!
+```
+
