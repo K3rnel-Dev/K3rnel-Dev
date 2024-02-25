@@ -19,7 +19,7 @@
 </div>
 
 ---
-#### Cybersecurity Main tools i using for pentesting:
+#### Cybersecurity Main tools i using:
 <p>
     <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ghidra-FF4500?style=flat-square" alt="Ghidra" />
