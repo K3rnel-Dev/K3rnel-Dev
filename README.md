@@ -28,10 +28,15 @@
     <img src="https://img.shields.io/badge/Burp%20Suite-FF7F50?style=flat-square" alt="Burp Suite" />
     <img alt="Zap" src="https://img.shields.io/badge/-Zap-078F5F.svg?logo=zap&logoColor=white"/>
     <img alt="Acunetix" src="https://img.shields.io/badge/-Acunetix-0074C7.svg?style=flat-square&logo=acunetix&logoColor=white"/>
-    <img alt="Acunetix" src="https://img.shields.io/badge/CobaltStrike-blue?style=flat-square?style=flat-square"/>
-    <img alt="test" src="https://img.shields.io/badge/Havoc-black?style=flat-square?style=flat-square"/>
-    <img alt="test" src="https://img.shields.io/badge/BruteRatel-red?style=flat-square?style=flat-square"/>
-    <img alt="test" src="https://img.shields.io/badge/sqlmap-yellow?style=flat-square?style=flat-square"/>
+    <img alt="CBS" src="https://img.shields.io/badge/CobaltStrike-blue?style=flat-square?style=flat-square"/>
+    <img alt="havoc" src="https://img.shields.io/badge/Havoc-black?style=flat-square?style=flat-square"/>
+    <img alt="BruteRatel" src="https://img.shields.io/badge/BruteRatel-red?style=flat-square?style=flat-square"/>
+    <img alt="Sqlmap" src="https://img.shields.io/badge/sqlmap-yellow?style=flat-square?style=flat-square"/>
+    <img alt="shellter" src="https://img.shields.io/badge/shellter-black?style=flat-square?style=flat-square"/>
+    <img alt="radare2" src="https://img.shields.io/badge/Radare2-purple?style=flat-square?style=flat-square"/>
+    <img alt="evilginx2" src="https://img.shields.io/badge/evilginx2-white?style=flat-square?style=flat-square"/>
+    <img alt="poshC2" src="https://img.shields.io/badge/PoshC2-gray?style=flat-square?style=flat-square"/>
+    
 </p>
 
 ---
