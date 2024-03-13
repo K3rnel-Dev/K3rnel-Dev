@@ -6,7 +6,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=K3rnel-dev" alt="Visitor Badge">
 </div>
 
-**I am studying Malware-Analytics, Security-Researching.**
+**Studying Malware-Analytics, Security-Researching and Native-Development.**
 
 
 
@@ -19,28 +19,6 @@
 </div>
 
 ---
-#### Cybersecurity Main tools i using:
-<p>
-    <img alt="OWASP" src="https://img.shields.io/badge/-OWASP-red.svg?logo=owasp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ghidra-FF4500?style=flat-square" alt="Ghidra" />
-    <img src="https://img.shields.io/badge/Nuclei-B0C4DE?style=flat-square" alt="Nuclei" />
-    <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-75D5D5.svg?logo=nmap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Burp%20Suite-FF7F50?style=flat-square" alt="Burp Suite" />
-    <img alt="Zap" src="https://img.shields.io/badge/-Zap-078F5F.svg?logo=zap&logoColor=white"/>
-    <img alt="Acunetix" src="https://img.shields.io/badge/-Acunetix-0074C7.svg?style=flat-square&logo=acunetix&logoColor=white"/>
-    <img alt="CBS" src="https://img.shields.io/badge/CobaltStrike-blue?style=flat-square?style=flat-square"/>
-    <img alt="havoc" src="https://img.shields.io/badge/Havoc-black?style=flat-square?style=flat-square"/>
-    <img alt="BruteRatel" src="https://img.shields.io/badge/BruteRatel-red?style=flat-square?style=flat-square"/>
-    <img alt="Sqlmap" src="https://img.shields.io/badge/sqlmap-yellow?style=flat-square?style=flat-square"/>
-    <img alt="shellter" src="https://img.shields.io/badge/shellter-black?style=flat-square?style=flat-square"/>
-    <img alt="radare2" src="https://img.shields.io/badge/Radare2-purple?style=flat-square?style=flat-square"/>
-    <img alt="evilginx2" src="https://img.shields.io/badge/evilginx2-white?style=flat-square?style=flat-square"/>
-    <img alt="poshC2" src="https://img.shields.io/badge/PoshC2-gray?style=flat-square?style=flat-square"/>
-    
-</p>
-
----
-
 
 
 
