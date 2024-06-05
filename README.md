@@ -3,6 +3,8 @@
     <img src="github-snake.svg">
 </div>
 
+#### Contact: Telegram(Disable) - (Account has been blocked)
+
 ## 👋 Welcome | About
 Studying Malware Analytics, Security Research, NET/Native Development, and Reverse Engineering.
 I publish my developments, as well as source codes for malware/other programs
