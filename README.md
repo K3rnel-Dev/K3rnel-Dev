@@ -17,9 +17,9 @@ I publish my developments, as well as source codes for malware/other programs
 - Backend Development
 ---
 
-## 🔰 Using languages | os | IDE: 
+## 🔰 Using languages | IDE: 
 <div style="background-color: transparent;">
-	<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,php,visualstudio,kali"/>
+	<img src="https://skillicons.dev/icons?i=cpp,cs,python,php,visualstudio"/>
 	<br/>
     <br>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=k3rnel-dev&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&hide_border=true&bg_color=0c1014&langs_count=8&layout=compact'>
