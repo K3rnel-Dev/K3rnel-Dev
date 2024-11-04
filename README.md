@@ -6,7 +6,7 @@
 ### Contact me: [@K666Plus](https://K666Plus.t.me/)
 
 ## 🛠️ Skills:
-- Malware Analytics
+- Malware Analyst
 - Security Research
 - NET/Native Development
 ---
