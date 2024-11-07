@@ -3,8 +3,6 @@
     <img src="github-snake.svg">
 </div>
 
-### Contact me: [@K666Plus](https://K666Plus.t.me/)
-
 ## 🛠️ Skills:
 - Malware Analyst
 - Security Research
