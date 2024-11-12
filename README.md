@@ -3,7 +3,7 @@
     <img src="github-snake.svg">
 </div>
 
-### Contact me: ( telegram account was hacked - i working to restore it )
+### Contact me: ( telegram account was banned - i working to restore it )
 
 ## 🛠️ Skills:
 - Malware Analysis
