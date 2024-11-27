@@ -5,8 +5,8 @@
 
 <br>
 <div align=center style="background-color: transparent;">
-	<img alt="Stars" src="https://img.shields.io/github/stars/k3rnel-dev?style=for-the-badge&labnerl=stars&logo=github"/>
-    <img alt="Currently unavailable - working to restore account" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><br>
+    <img alt="Stars" src="https://img.shields.io/github/stars/k3rnel-dev?style=for-the-badge&labnerl=stars&logo=github"/>
+    <!-- <img alt="Currently unavailable - working to restore account" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> <br> -->
     <img src="https://visitor-badge.laobi.icu/badge?page_id=K3rnel-dev" alt="Visitor Badge"/>
 </div>
 
@@ -26,6 +26,8 @@
 </div>
 
 ---
+### ⚠️ P.S - Telegram currently unavailable - i working to restore account
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=K3rnel-Dev&theme=dracula)](https://github.com/K3rnel-Dev/)
+
 
