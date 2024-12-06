@@ -1,5 +1,5 @@
-<div>
-    <img src="banner.png" alt="K3rnel"><br><br>
+<div align="center">
+    <img src="bane.gif" alt="K3rnel" ><br><br>
     <img src="github-snake.svg">
 </div>
 
