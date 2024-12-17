@@ -26,7 +26,6 @@
 </div>
 
 ---
-### ⚠️ P.S - Telegram currently unavailable - i working to restore account
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=K3rnel-Dev&theme=dracula)](https://github.com/K3rnel-Dev/)
 
