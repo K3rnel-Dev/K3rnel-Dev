@@ -28,6 +28,9 @@
 
 ---
 
+```  > ⚠️ All projects are for educational purposes only - the author is not responsible for any malicious use!```
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=K3rnel-Dev&theme=dracula)](https://github.com/K3rnel-Dev/)
 
 
