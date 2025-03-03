@@ -3,6 +3,8 @@
     <img src="github-snake.svg">
 </div>
 
+## Contact me: @k000dev (Telegram) | [@k000dev](https://k000dev.t.me/)
+
 <br>
 <div align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/K3rnel-dev?label=Stars">
